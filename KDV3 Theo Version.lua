@@ -8,7 +8,6 @@ if not isfile("Dances/Sphere.mp3") then
 end
 loadstring(game:HttpGet('https://raw.githubusercontent.com/AZYsGithub/Delta-Scripts/main/MobileKeyboard.txt'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/9274837292748/aawdadadadada/refs/heads/main/kasck"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Solary-3/Scripts/refs/heads/main/Reanimate.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraOutlight/my-scripts/refs/heads/main/namertag"))()
     game:GetService("StarterGui"):SetCore("SendNotification", {
 	Title = "Krystal Dance V3";
